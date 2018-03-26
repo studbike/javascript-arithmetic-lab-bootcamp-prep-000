@@ -1,6 +1,3 @@
-var a = 10;
-var b = 7;
-var n = "14.555"
 
 function add(a,b){
   return a+b;
